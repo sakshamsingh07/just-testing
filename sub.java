@@ -13,6 +13,9 @@ public class sub
         int ans=subb(a,b);
         System.out.println(ans);
     }
+}
 
-    
+public static int mul(int a,int b)
+{
+    return a*b;
 }
